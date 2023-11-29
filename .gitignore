@@ -1,0 +1,5 @@
+# .gitignore
+
+# Віртуальне середовище Python
+venv/
+.idea/
